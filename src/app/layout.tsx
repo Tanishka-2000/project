@@ -26,6 +26,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <meta name="facebook-domain-verification" content="grvky7dihx56k1rx14xq0mjrdliqho" />
 
         {/* CMU Serif from CDN and Muli (Google) */}
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
